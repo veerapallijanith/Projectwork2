@@ -42,9 +42,13 @@ Disease detection results refer to the outcomes obtained from various diagnostic
 
 ## Articles published / References
 Esteva, A., Kuprel, B., Novoa, R. A., Ko, J., Swetter, S. M., Blau, H. M., & Thrun, S.(2017). "Dermatologist-level classification of skin cancer with deep neural networks."Nature, 542(7639), 115-118.
+
 • McKinney, S. M., Sieniek, M., Godbole, V., Godwin, J., Antropova, N., Ashrafian,H., ... & Topol, E. J. (2020). "International evaluation of an AI system for breastcancer screening." Nature, 577(7788), 89-94.
+
 • Gulshan, V., Peng, L., Coram, M., Stumpe, M. C., Wu, D., Narayanaswamy, A., ... &Webster, D. R. (2016). "Development and validation of a deep learning algorithm fordetection of diabetic retinopathy in retinalfundus photographs." JAMA, 316(22),2402-2410.
+
 • Rajpurkar, P., Irvin, J., Zhu, K., Yang, B., Mehta, H., Duan, T., ... & Lungren, M. P.(2017). "Chexnet: Radiologist-level pneumonia detection on chest x-rays with deeplearning." arXiv preprint arXiv:1711.05225.
+
 • Lakhani, P., & Sundaram, B. (2017). "Deep learning at chest radiography: Automatedclassification of pulmonary tuberculosis by using convolutional neural networks."Radiology, 284(2), 574-582.
 
 
